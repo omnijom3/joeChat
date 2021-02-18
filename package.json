@@ -1,0 +1,22 @@
+{
+  "name": "joechat",
+  "version": "1.0.0",
+  "description": "realtime chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omnijom3/joeChat.git"
+  },
+  "author": "omnijom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omnijom3/joeChat/issues"
+  },
+  "homepage": "https://github.com/omnijom3/joeChat#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
